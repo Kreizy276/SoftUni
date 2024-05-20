@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\Exercises Lab\04. Inches to CM\bin\Debug\net8.0\04. Inches to CM.exe
+C:\Users\krisb\Desktop\exercises\Exercises Lab\04. Inches to CM\bin\Debug\net8.0\04. Inches to CM.deps.json
+C:\Users\krisb\Desktop\exercises\Exercises Lab\04. Inches to CM\bin\Debug\net8.0\04. Inches to CM.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\Exercises Lab\04. Inches to CM\bin\Debug\net8.0\04. Inches to CM.dll
+C:\Users\krisb\Desktop\exercises\Exercises Lab\04. Inches to CM\bin\Debug\net8.0\04. Inches to CM.pdb
+C:\Users\krisb\Desktop\exercises\Exercises Lab\04. Inches to CM\obj\Debug\net8.0\04. Inches to CM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\Exercises Lab\04. Inches to CM\obj\Debug\net8.0\04. Inches to CM.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\Exercises Lab\04. Inches to CM\obj\Debug\net8.0\04. Inches to CM.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\Exercises Lab\04. Inches to CM\obj\Debug\net8.0\04. Inches to CM.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\Exercises Lab\04. Inches to CM\obj\Debug\net8.0\04. Inches to CM.dll
+C:\Users\krisb\Desktop\exercises\Exercises Lab\04. Inches to CM\obj\Debug\net8.0\refint\04. Inches to CM.dll
+C:\Users\krisb\Desktop\exercises\Exercises Lab\04. Inches to CM\obj\Debug\net8.0\04. Inches to CM.pdb
+C:\Users\krisb\Desktop\exercises\Exercises Lab\04. Inches to CM\obj\Debug\net8.0\04. Inches to CM.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\Exercises Lab\04. Inches to CM\obj\Debug\net8.0\ref\04. Inches to CM.dll

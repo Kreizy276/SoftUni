@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\Exercises Lab\07. Projects Creation\bin\Debug\net8.0\07. Projects Creation.exe
+C:\Users\krisb\Desktop\exercises\Exercises Lab\07. Projects Creation\bin\Debug\net8.0\07. Projects Creation.deps.json
+C:\Users\krisb\Desktop\exercises\Exercises Lab\07. Projects Creation\bin\Debug\net8.0\07. Projects Creation.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\Exercises Lab\07. Projects Creation\bin\Debug\net8.0\07. Projects Creation.dll
+C:\Users\krisb\Desktop\exercises\Exercises Lab\07. Projects Creation\bin\Debug\net8.0\07. Projects Creation.pdb
+C:\Users\krisb\Desktop\exercises\Exercises Lab\07. Projects Creation\obj\Debug\net8.0\07. Projects Creation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\Exercises Lab\07. Projects Creation\obj\Debug\net8.0\07. Projects Creation.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\Exercises Lab\07. Projects Creation\obj\Debug\net8.0\07. Projects Creation.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\Exercises Lab\07. Projects Creation\obj\Debug\net8.0\07. Projects Creation.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\Exercises Lab\07. Projects Creation\obj\Debug\net8.0\07. Projects Creation.dll
+C:\Users\krisb\Desktop\exercises\Exercises Lab\07. Projects Creation\obj\Debug\net8.0\refint\07. Projects Creation.dll
+C:\Users\krisb\Desktop\exercises\Exercises Lab\07. Projects Creation\obj\Debug\net8.0\07. Projects Creation.pdb
+C:\Users\krisb\Desktop\exercises\Exercises Lab\07. Projects Creation\obj\Debug\net8.0\07. Projects Creation.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\Exercises Lab\07. Projects Creation\obj\Debug\net8.0\ref\07. Projects Creation.dll

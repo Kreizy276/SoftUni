@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\Exercises Lab\02. Numbers from 1 to 10\bin\Debug\net8.0\02. Numbers from 1 to 10.exe
+C:\Users\krisb\Desktop\exercises\Exercises Lab\02. Numbers from 1 to 10\bin\Debug\net8.0\02. Numbers from 1 to 10.deps.json
+C:\Users\krisb\Desktop\exercises\Exercises Lab\02. Numbers from 1 to 10\bin\Debug\net8.0\02. Numbers from 1 to 10.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\Exercises Lab\02. Numbers from 1 to 10\bin\Debug\net8.0\02. Numbers from 1 to 10.dll
+C:\Users\krisb\Desktop\exercises\Exercises Lab\02. Numbers from 1 to 10\bin\Debug\net8.0\02. Numbers from 1 to 10.pdb
+C:\Users\krisb\Desktop\exercises\Exercises Lab\02. Numbers from 1 to 10\obj\Debug\net8.0\02. Numbers from 1 to 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\Exercises Lab\02. Numbers from 1 to 10\obj\Debug\net8.0\02. Numbers from 1 to 10.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\Exercises Lab\02. Numbers from 1 to 10\obj\Debug\net8.0\02. Numbers from 1 to 10.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\Exercises Lab\02. Numbers from 1 to 10\obj\Debug\net8.0\02. Numbers from 1 to 10.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\Exercises Lab\02. Numbers from 1 to 10\obj\Debug\net8.0\02. Numbers from 1 to 10.dll
+C:\Users\krisb\Desktop\exercises\Exercises Lab\02. Numbers from 1 to 10\obj\Debug\net8.0\refint\02. Numbers from 1 to 10.dll
+C:\Users\krisb\Desktop\exercises\Exercises Lab\02. Numbers from 1 to 10\obj\Debug\net8.0\02. Numbers from 1 to 10.pdb
+C:\Users\krisb\Desktop\exercises\Exercises Lab\02. Numbers from 1 to 10\obj\Debug\net8.0\02. Numbers from 1 to 10.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\Exercises Lab\02. Numbers from 1 to 10\obj\Debug\net8.0\ref\02. Numbers from 1 to 10.dll

@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\Exercises Lab\05. Greeting by Name\obj\Debug\net8.0\05. Greeting by Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\Exercises Lab\05. Greeting by Name\obj\Debug\net8.0\05. Greeting by Name.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\Exercises Lab\05. Greeting by Name\obj\Debug\net8.0\05. Greeting by Name.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\Exercises Lab\05. Greeting by Name\obj\Debug\net8.0\05. Greeting by Name.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\Exercises Lab\05. Greeting by Name\bin\Debug\net8.0\05. Greeting by Name.exe
+C:\Users\krisb\Desktop\exercises\Exercises Lab\05. Greeting by Name\bin\Debug\net8.0\05. Greeting by Name.deps.json
+C:\Users\krisb\Desktop\exercises\Exercises Lab\05. Greeting by Name\bin\Debug\net8.0\05. Greeting by Name.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\Exercises Lab\05. Greeting by Name\bin\Debug\net8.0\05. Greeting by Name.dll
+C:\Users\krisb\Desktop\exercises\Exercises Lab\05. Greeting by Name\bin\Debug\net8.0\05. Greeting by Name.pdb
+C:\Users\krisb\Desktop\exercises\Exercises Lab\05. Greeting by Name\obj\Debug\net8.0\05. Greeting by Name.dll
+C:\Users\krisb\Desktop\exercises\Exercises Lab\05. Greeting by Name\obj\Debug\net8.0\refint\05. Greeting by Name.dll
+C:\Users\krisb\Desktop\exercises\Exercises Lab\05. Greeting by Name\obj\Debug\net8.0\05. Greeting by Name.pdb
+C:\Users\krisb\Desktop\exercises\Exercises Lab\05. Greeting by Name\obj\Debug\net8.0\05. Greeting by Name.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\Exercises Lab\05. Greeting by Name\obj\Debug\net8.0\ref\05. Greeting by Name.dll

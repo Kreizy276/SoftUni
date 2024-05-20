@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\Exercises Lab\01. Hello SoftUni\bin\Debug\net8.0\01. Hello SoftUni.exe
+C:\Users\krisb\Desktop\exercises\Exercises Lab\01. Hello SoftUni\bin\Debug\net8.0\01. Hello SoftUni.deps.json
+C:\Users\krisb\Desktop\exercises\Exercises Lab\01. Hello SoftUni\bin\Debug\net8.0\01. Hello SoftUni.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\Exercises Lab\01. Hello SoftUni\bin\Debug\net8.0\01. Hello SoftUni.dll
+C:\Users\krisb\Desktop\exercises\Exercises Lab\01. Hello SoftUni\bin\Debug\net8.0\01. Hello SoftUni.pdb
+C:\Users\krisb\Desktop\exercises\Exercises Lab\01. Hello SoftUni\obj\Debug\net8.0\01. Hello SoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\Exercises Lab\01. Hello SoftUni\obj\Debug\net8.0\01. Hello SoftUni.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\Exercises Lab\01. Hello SoftUni\obj\Debug\net8.0\01. Hello SoftUni.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\Exercises Lab\01. Hello SoftUni\obj\Debug\net8.0\01. Hello SoftUni.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\Exercises Lab\01. Hello SoftUni\obj\Debug\net8.0\01. Hello SoftUni.dll
+C:\Users\krisb\Desktop\exercises\Exercises Lab\01. Hello SoftUni\obj\Debug\net8.0\refint\01. Hello SoftUni.dll
+C:\Users\krisb\Desktop\exercises\Exercises Lab\01. Hello SoftUni\obj\Debug\net8.0\01. Hello SoftUni.pdb
+C:\Users\krisb\Desktop\exercises\Exercises Lab\01. Hello SoftUni\obj\Debug\net8.0\01. Hello SoftUni.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\Exercises Lab\01. Hello SoftUni\obj\Debug\net8.0\ref\01. Hello SoftUni.dll

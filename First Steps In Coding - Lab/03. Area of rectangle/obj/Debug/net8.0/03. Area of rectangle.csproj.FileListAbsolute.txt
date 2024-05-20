@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\Exercises Lab\03. Area of rectangle\bin\Debug\net8.0\03. Area of rectangle.exe
+C:\Users\krisb\Desktop\exercises\Exercises Lab\03. Area of rectangle\bin\Debug\net8.0\03. Area of rectangle.deps.json
+C:\Users\krisb\Desktop\exercises\Exercises Lab\03. Area of rectangle\bin\Debug\net8.0\03. Area of rectangle.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\Exercises Lab\03. Area of rectangle\bin\Debug\net8.0\03. Area of rectangle.dll
+C:\Users\krisb\Desktop\exercises\Exercises Lab\03. Area of rectangle\bin\Debug\net8.0\03. Area of rectangle.pdb
+C:\Users\krisb\Desktop\exercises\Exercises Lab\03. Area of rectangle\obj\Debug\net8.0\03. Area of rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\Exercises Lab\03. Area of rectangle\obj\Debug\net8.0\03. Area of rectangle.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\Exercises Lab\03. Area of rectangle\obj\Debug\net8.0\03. Area of rectangle.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\Exercises Lab\03. Area of rectangle\obj\Debug\net8.0\03. Area of rectangle.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\Exercises Lab\03. Area of rectangle\obj\Debug\net8.0\03. Area of rectangle.dll
+C:\Users\krisb\Desktop\exercises\Exercises Lab\03. Area of rectangle\obj\Debug\net8.0\refint\03. Area of rectangle.dll
+C:\Users\krisb\Desktop\exercises\Exercises Lab\03. Area of rectangle\obj\Debug\net8.0\03. Area of rectangle.pdb
+C:\Users\krisb\Desktop\exercises\Exercises Lab\03. Area of rectangle\obj\Debug\net8.0\03. Area of rectangle.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\Exercises Lab\03. Area of rectangle\obj\Debug\net8.0\ref\03. Area of rectangle.dll

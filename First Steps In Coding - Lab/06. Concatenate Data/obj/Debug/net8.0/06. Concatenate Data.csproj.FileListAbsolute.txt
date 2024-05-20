@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\Exercises Lab\06. Concatenate Data\bin\Debug\net8.0\06. Concatenate Data.exe
+C:\Users\krisb\Desktop\exercises\Exercises Lab\06. Concatenate Data\bin\Debug\net8.0\06. Concatenate Data.deps.json
+C:\Users\krisb\Desktop\exercises\Exercises Lab\06. Concatenate Data\bin\Debug\net8.0\06. Concatenate Data.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\Exercises Lab\06. Concatenate Data\bin\Debug\net8.0\06. Concatenate Data.dll
+C:\Users\krisb\Desktop\exercises\Exercises Lab\06. Concatenate Data\bin\Debug\net8.0\06. Concatenate Data.pdb
+C:\Users\krisb\Desktop\exercises\Exercises Lab\06. Concatenate Data\obj\Debug\net8.0\06. Concatenate Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\Exercises Lab\06. Concatenate Data\obj\Debug\net8.0\06. Concatenate Data.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\Exercises Lab\06. Concatenate Data\obj\Debug\net8.0\06. Concatenate Data.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\Exercises Lab\06. Concatenate Data\obj\Debug\net8.0\06. Concatenate Data.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\Exercises Lab\06. Concatenate Data\obj\Debug\net8.0\06. Concatenate Data.dll
+C:\Users\krisb\Desktop\exercises\Exercises Lab\06. Concatenate Data\obj\Debug\net8.0\refint\06. Concatenate Data.dll
+C:\Users\krisb\Desktop\exercises\Exercises Lab\06. Concatenate Data\obj\Debug\net8.0\06. Concatenate Data.pdb
+C:\Users\krisb\Desktop\exercises\Exercises Lab\06. Concatenate Data\obj\Debug\net8.0\06. Concatenate Data.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\Exercises Lab\06. Concatenate Data\obj\Debug\net8.0\ref\06. Concatenate Data.dll
