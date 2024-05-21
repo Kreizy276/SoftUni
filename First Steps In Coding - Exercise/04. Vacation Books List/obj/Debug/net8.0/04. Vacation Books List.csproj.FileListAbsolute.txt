@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\04. Vacation Books List\bin\Debug\net8.0\04. Vacation Books List.exe
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\04. Vacation Books List\bin\Debug\net8.0\04. Vacation Books List.deps.json
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\04. Vacation Books List\bin\Debug\net8.0\04. Vacation Books List.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\04. Vacation Books List\bin\Debug\net8.0\04. Vacation Books List.dll
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\04. Vacation Books List\bin\Debug\net8.0\04. Vacation Books List.pdb
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\04. Vacation Books List\obj\Debug\net8.0\04. Vacation Books List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\04. Vacation Books List\obj\Debug\net8.0\04. Vacation Books List.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\04. Vacation Books List\obj\Debug\net8.0\04. Vacation Books List.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\04. Vacation Books List\obj\Debug\net8.0\04. Vacation Books List.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\04. Vacation Books List\obj\Debug\net8.0\04. Vacation Books List.dll
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\04. Vacation Books List\obj\Debug\net8.0\refint\04. Vacation Books List.dll
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\04. Vacation Books List\obj\Debug\net8.0\04. Vacation Books List.pdb
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\04. Vacation Books List\obj\Debug\net8.0\04. Vacation Books List.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\04. Vacation Books List\obj\Debug\net8.0\ref\04. Vacation Books List.dll

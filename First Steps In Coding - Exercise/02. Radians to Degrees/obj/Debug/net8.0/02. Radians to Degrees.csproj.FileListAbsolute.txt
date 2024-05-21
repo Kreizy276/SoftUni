@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\net8.0\02. Radians to Degrees.exe
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\net8.0\02. Radians to Degrees.deps.json
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\net8.0\02. Radians to Degrees.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\net8.0\02. Radians to Degrees.dll
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\net8.0\02. Radians to Degrees.pdb
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net8.0\02. Radians to Degrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net8.0\02. Radians to Degrees.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net8.0\02. Radians to Degrees.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net8.0\02. Radians to Degrees.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net8.0\02. Radians to Degrees.dll
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net8.0\refint\02. Radians to Degrees.dll
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net8.0\02. Radians to Degrees.pdb
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net8.0\02. Radians to Degrees.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net8.0\ref\02. Radians to Degrees.dll

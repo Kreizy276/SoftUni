@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\07. Food Delivery\bin\Debug\net8.0\07. Food Delivery.exe
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\07. Food Delivery\bin\Debug\net8.0\07. Food Delivery.deps.json
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\07. Food Delivery\bin\Debug\net8.0\07. Food Delivery.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\07. Food Delivery\bin\Debug\net8.0\07. Food Delivery.dll
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\07. Food Delivery\bin\Debug\net8.0\07. Food Delivery.pdb
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\net8.0\07. Food Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\net8.0\07. Food Delivery.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\net8.0\07. Food Delivery.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\net8.0\07. Food Delivery.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\net8.0\07. Food Delivery.dll
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\net8.0\refint\07. Food Delivery.dll
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\net8.0\07. Food Delivery.pdb
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\net8.0\07. Food Delivery.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\net8.0\ref\07. Food Delivery.dll

@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net8.0\09. Fish Tank.exe
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net8.0\09. Fish Tank.deps.json
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net8.0\09. Fish Tank.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net8.0\09. Fish Tank.dll
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net8.0\09. Fish Tank.pdb
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net8.0\09. Fish Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net8.0\09. Fish Tank.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net8.0\09. Fish Tank.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net8.0\09. Fish Tank.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net8.0\09. Fish Tank.dll
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net8.0\refint\09. Fish Tank.dll
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net8.0\09. Fish Tank.pdb
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net8.0\09. Fish Tank.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net8.0\ref\09. Fish Tank.dll

@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\08. Basketball Equipment\bin\Debug\net8.0\08. Basketball Equipment.exe
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\08. Basketball Equipment\bin\Debug\net8.0\08. Basketball Equipment.deps.json
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\08. Basketball Equipment\bin\Debug\net8.0\08. Basketball Equipment.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\08. Basketball Equipment\bin\Debug\net8.0\08. Basketball Equipment.dll
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\08. Basketball Equipment\bin\Debug\net8.0\08. Basketball Equipment.pdb
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\net8.0\08. Basketball Equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\net8.0\08. Basketball Equipment.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\net8.0\08. Basketball Equipment.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\net8.0\08. Basketball Equipment.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\net8.0\08. Basketball Equipment.dll
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\net8.0\refint\08. Basketball Equipment.dll
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\net8.0\08. Basketball Equipment.pdb
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\net8.0\08. Basketball Equipment.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\net8.0\ref\08. Basketball Equipment.dll

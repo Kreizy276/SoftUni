@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\06. Repainting\bin\Debug\net8.0\06. Repainting.exe
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\06. Repainting\bin\Debug\net8.0\06. Repainting.deps.json
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\06. Repainting\bin\Debug\net8.0\06. Repainting.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\06. Repainting\bin\Debug\net8.0\06. Repainting.dll
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\06. Repainting\bin\Debug\net8.0\06. Repainting.pdb
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\06. Repainting\obj\Debug\net8.0\06. Repainting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\06. Repainting\obj\Debug\net8.0\06. Repainting.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\06. Repainting\obj\Debug\net8.0\06. Repainting.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\06. Repainting\obj\Debug\net8.0\06. Repainting.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\06. Repainting\obj\Debug\net8.0\06. Repainting.dll
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\06. Repainting\obj\Debug\net8.0\refint\06. Repainting.dll
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\06. Repainting\obj\Debug\net8.0\06. Repainting.pdb
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\06. Repainting\obj\Debug\net8.0\06. Repainting.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\First Steps In Coding - Exercise\06. Repainting\obj\Debug\net8.0\ref\06. Repainting.dll
