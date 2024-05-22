@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8951328-9F63-4F7A-A904-A986CCF53AC4}|08. Graduation\\08. Graduation.csproj|c:\\users\\krisb\\desktop\\exercises\\softuni\\while loop - lab\\08. graduation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8951328-9F63-4F7A-A904-A986CCF53AC4}|08. Graduation\\08. Graduation.csproj|solutionrelative:08. graduation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B54979-B87F-4C75-A59E-45E05F8DD4EC}|07. Min Number\\07. Min Number.csproj|c:\\users\\krisb\\desktop\\exercises\\softuni\\while loop - lab\\07. min number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B54979-B87F-4C75-A59E-45E05F8DD4EC}|07. Min Number\\07. Min Number.csproj|solutionrelative:07. min number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6188C399-68AC-484F-AAFA-6152D58D0289}|06. Max Number\\06. Max Number.csproj|c:\\users\\krisb\\desktop\\exercises\\softuni\\while loop - lab\\06. max number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6188C399-68AC-484F-AAFA-6152D58D0289}|06. Max Number\\06. Max Number.csproj|solutionrelative:06. max number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD48CF7-9F95-4193-8855-7FF12E4E88D8}|05. Account Balance\\05. Account Balance.csproj|c:\\users\\krisb\\desktop\\exercises\\softuni\\while loop - lab\\05. account balance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD48CF7-9F95-4193-8855-7FF12E4E88D8}|05. Account Balance\\05. Account Balance.csproj|solutionrelative:05. account balance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64116F4B-24AB-4109-84E4-FE1F8241DDCA}|04. Sequence 2k\u002B1\\04. Sequence 2k\u002B1.csproj|c:\\users\\krisb\\desktop\\exercises\\softuni\\while loop - lab\\04. sequence 2k\u002B1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64116F4B-24AB-4109-84E4-FE1F8241DDCA}|04. Sequence 2k\u002B1\\04. Sequence 2k\u002B1.csproj|solutionrelative:04. sequence 2k\u002B1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8D02A4-5790-4101-8EE8-387B7F901D9D}|03. Sum Numbers\\03. Sum Numbers.csproj|c:\\users\\krisb\\desktop\\exercises\\softuni\\while loop - lab\\03. sum numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8D02A4-5790-4101-8EE8-387B7F901D9D}|03. Sum Numbers\\03. Sum Numbers.csproj|solutionrelative:03. sum numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F64BF23-8CC8-4194-90F5-7CB4ED17F13D}|02. Password\\02. Password.csproj|c:\\users\\krisb\\desktop\\exercises\\softuni\\while loop - lab\\02. password\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F64BF23-8CC8-4194-90F5-7CB4ED17F13D}|02. Password\\02. Password.csproj|solutionrelative:02. password\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779939E4-211B-4B98-A66A-2539E61C5332}|01. Read Text\\01. Read Text.csproj|c:\\users\\krisb\\desktop\\exercises\\softuni\\while loop - lab\\01. read text\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779939E4-211B-4B98-A66A-2539E61C5332}|01. Read Text\\01. Read Text.csproj|solutionrelative:01. read text\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Lab\\08. Graduation\\Program.cs",
+              "RelativeDocumentMoniker": "08. Graduation\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Lab\\08. Graduation\\Program.cs",
+              "RelativeToolTip": "08. Graduation\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:26:29.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Lab\\07. Min Number\\Program.cs",
+              "RelativeDocumentMoniker": "07. Min Number\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Lab\\07. Min Number\\Program.cs",
+              "RelativeToolTip": "07. Min Number\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:23:43.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Lab\\06. Max Number\\Program.cs",
+              "RelativeDocumentMoniker": "06. Max Number\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Lab\\06. Max Number\\Program.cs",
+              "RelativeToolTip": "06. Max Number\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:14:37.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Lab\\05. Account Balance\\Program.cs",
+              "RelativeDocumentMoniker": "05. Account Balance\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Lab\\05. Account Balance\\Program.cs",
+              "RelativeToolTip": "05. Account Balance\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:07:26.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Lab\\04. Sequence 2k\u002B1\\Program.cs",
+              "RelativeDocumentMoniker": "04. Sequence 2k\u002B1\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Lab\\04. Sequence 2k\u002B1\\Program.cs",
+              "RelativeToolTip": "04. Sequence 2k\u002B1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:57:11.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Lab\\03. Sum Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "03. Sum Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Lab\\03. Sum Numbers\\Program.cs",
+              "RelativeToolTip": "03. Sum Numbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:53:08.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Lab\\02. Password\\Program.cs",
+              "RelativeDocumentMoniker": "02. Password\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Lab\\02. Password\\Program.cs",
+              "RelativeToolTip": "02. Password\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:42:34.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Lab\\01. Read Text\\Program.cs",
+              "RelativeDocumentMoniker": "01. Read Text\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Lab\\01. Read Text\\Program.cs",
+              "RelativeToolTip": "01. Read Text\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:27:35.491Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

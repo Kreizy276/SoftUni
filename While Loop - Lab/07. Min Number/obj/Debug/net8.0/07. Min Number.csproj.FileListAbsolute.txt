@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\07. Min Number\bin\Debug\net8.0\07. Min Number.exe
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\07. Min Number\bin\Debug\net8.0\07. Min Number.deps.json
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\07. Min Number\bin\Debug\net8.0\07. Min Number.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\07. Min Number\bin\Debug\net8.0\07. Min Number.dll
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\07. Min Number\bin\Debug\net8.0\07. Min Number.pdb
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\07. Min Number\obj\Debug\net8.0\07. Min Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\07. Min Number\obj\Debug\net8.0\07. Min Number.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\07. Min Number\obj\Debug\net8.0\07. Min Number.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\07. Min Number\obj\Debug\net8.0\07. Min Number.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\07. Min Number\obj\Debug\net8.0\07. Min Number.sourcelink.json
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\07. Min Number\obj\Debug\net8.0\07. Min Number.dll
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\07. Min Number\obj\Debug\net8.0\refint\07. Min Number.dll
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\07. Min Number\obj\Debug\net8.0\07. Min Number.pdb
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\07. Min Number\obj\Debug\net8.0\07. Min Number.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\07. Min Number\obj\Debug\net8.0\ref\07. Min Number.dll

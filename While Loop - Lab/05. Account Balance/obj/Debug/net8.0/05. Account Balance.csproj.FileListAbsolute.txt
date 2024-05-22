@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\05. Account Balance\bin\Debug\net8.0\05. Account Balance.exe
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\05. Account Balance\bin\Debug\net8.0\05. Account Balance.deps.json
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\05. Account Balance\bin\Debug\net8.0\05. Account Balance.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\05. Account Balance\bin\Debug\net8.0\05. Account Balance.dll
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\05. Account Balance\bin\Debug\net8.0\05. Account Balance.pdb
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\05. Account Balance\obj\Debug\net8.0\05. Account Balance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\05. Account Balance\obj\Debug\net8.0\05. Account Balance.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\05. Account Balance\obj\Debug\net8.0\05. Account Balance.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\05. Account Balance\obj\Debug\net8.0\05. Account Balance.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\05. Account Balance\obj\Debug\net8.0\05. Account Balance.sourcelink.json
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\05. Account Balance\obj\Debug\net8.0\05. Account Balance.dll
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\05. Account Balance\obj\Debug\net8.0\refint\05. Account Balance.dll
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\05. Account Balance\obj\Debug\net8.0\05. Account Balance.pdb
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\05. Account Balance\obj\Debug\net8.0\05. Account Balance.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\05. Account Balance\obj\Debug\net8.0\ref\05. Account Balance.dll

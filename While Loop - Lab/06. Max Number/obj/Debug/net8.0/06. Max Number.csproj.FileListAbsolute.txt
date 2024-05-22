@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\06. Max Number\bin\Debug\net8.0\06. Max Number.exe
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\06. Max Number\bin\Debug\net8.0\06. Max Number.deps.json
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\06. Max Number\bin\Debug\net8.0\06. Max Number.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\06. Max Number\bin\Debug\net8.0\06. Max Number.dll
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\06. Max Number\bin\Debug\net8.0\06. Max Number.pdb
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\06. Max Number\obj\Debug\net8.0\06. Max Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\06. Max Number\obj\Debug\net8.0\06. Max Number.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\06. Max Number\obj\Debug\net8.0\06. Max Number.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\06. Max Number\obj\Debug\net8.0\06. Max Number.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\06. Max Number\obj\Debug\net8.0\06. Max Number.sourcelink.json
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\06. Max Number\obj\Debug\net8.0\06. Max Number.dll
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\06. Max Number\obj\Debug\net8.0\refint\06. Max Number.dll
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\06. Max Number\obj\Debug\net8.0\06. Max Number.pdb
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\06. Max Number\obj\Debug\net8.0\06. Max Number.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Lab\06. Max Number\obj\Debug\net8.0\ref\06. Max Number.dll
