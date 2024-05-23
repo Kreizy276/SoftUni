@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33C7FAA0-ABA1-4DB0-9C9E-C68667714ADD}|07. Moving\\07. Moving.csproj|c:\\users\\krisb\\desktop\\exercises\\softuni\\while loop - exercise\\07. moving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C7FAA0-ABA1-4DB0-9C9E-C68667714ADD}|07. Moving\\07. Moving.csproj|solutionrelative:07. moving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02CC8A2-551B-439B-ADB3-BDA587B1E229}|06. Cake\\06. Cake.csproj|c:\\users\\krisb\\desktop\\exercises\\softuni\\while loop - exercise\\06. cake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C02CC8A2-551B-439B-ADB3-BDA587B1E229}|06. Cake\\06. Cake.csproj|solutionrelative:06. cake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95A417D-7D4A-4B21-A25B-2E99913378AF}|05. Coins\\05. Coins.csproj|c:\\users\\krisb\\desktop\\exercises\\softuni\\while loop - exercise\\05. coins\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95A417D-7D4A-4B21-A25B-2E99913378AF}|05. Coins\\05. Coins.csproj|solutionrelative:05. coins\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51536D9-B257-4E2E-8A8C-90C586547CCE}|01. Old Books\\01. Old Books.csproj|c:\\users\\krisb\\desktop\\exercises\\softuni\\while loop - exercise\\01. old books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51536D9-B257-4E2E-8A8C-90C586547CCE}|01. Old Books\\01. Old Books.csproj|solutionrelative:01. old books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A307916E-0A0F-4D50-84FC-8CF7A6D42BEA}|04. Walking\\04. Walking.csproj|c:\\users\\krisb\\desktop\\exercises\\softuni\\while loop - exercise\\04. walking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A307916E-0A0F-4D50-84FC-8CF7A6D42BEA}|04. Walking\\04. Walking.csproj|solutionrelative:04. walking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0EC5E5-34E7-4A24-B0A4-5AC5FDFD283A}|03. Vacation\\03. Vacation.csproj|c:\\users\\krisb\\desktop\\exercises\\softuni\\while loop - exercise\\03. vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0EC5E5-34E7-4A24-B0A4-5AC5FDFD283A}|03. Vacation\\03. Vacation.csproj|solutionrelative:03. vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81641B3D-8B3A-4D40-B1AE-D8045DED4ADA}|02. Exam Preparation\\02. Exam Preparation.csproj|c:\\users\\krisb\\desktop\\exercises\\softuni\\while loop - exercise\\02. exam preparation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81641B3D-8B3A-4D40-B1AE-D8045DED4ADA}|02. Exam Preparation\\02. Exam Preparation.csproj|solutionrelative:02. exam preparation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Exercise\\07. Moving\\Program.cs",
+              "RelativeDocumentMoniker": "07. Moving\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Exercise\\07. Moving\\Program.cs",
+              "RelativeToolTip": "07. Moving\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:54:50.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Exercise\\06. Cake\\Program.cs",
+              "RelativeDocumentMoniker": "06. Cake\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Exercise\\06. Cake\\Program.cs",
+              "RelativeToolTip": "06. Cake\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAiwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:10:48.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Exercise\\05. Coins\\Program.cs",
+              "RelativeDocumentMoniker": "05. Coins\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Exercise\\05. Coins\\Program.cs",
+              "RelativeToolTip": "05. Coins\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAiwCgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:37:22.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Exercise\\04. Walking\\Program.cs",
+              "RelativeDocumentMoniker": "04. Walking\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Exercise\\04. Walking\\Program.cs",
+              "RelativeToolTip": "04. Walking\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:09:40.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Exercise\\03. Vacation\\Program.cs",
+              "RelativeDocumentMoniker": "03. Vacation\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Exercise\\03. Vacation\\Program.cs",
+              "RelativeToolTip": "03. Vacation\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:24:02.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Exercise\\02. Exam Preparation\\Program.cs",
+              "RelativeDocumentMoniker": "02. Exam Preparation\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Exercise\\02. Exam Preparation\\Program.cs",
+              "RelativeToolTip": "02. Exam Preparation\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:37:10.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Exercise\\01. Old Books\\Program.cs",
+              "RelativeDocumentMoniker": "01. Old Books\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\SoftUni\\While Loop - Exercise\\01. Old Books\\Program.cs",
+              "RelativeToolTip": "01. Old Books\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:19:31.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

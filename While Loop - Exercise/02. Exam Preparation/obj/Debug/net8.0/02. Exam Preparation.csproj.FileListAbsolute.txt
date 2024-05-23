@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Exercise\02. Exam Preparation\bin\Debug\net8.0\02. Exam Preparation.exe
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Exercise\02. Exam Preparation\bin\Debug\net8.0\02. Exam Preparation.deps.json
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Exercise\02. Exam Preparation\bin\Debug\net8.0\02. Exam Preparation.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Exercise\02. Exam Preparation\bin\Debug\net8.0\02. Exam Preparation.dll
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Exercise\02. Exam Preparation\bin\Debug\net8.0\02. Exam Preparation.pdb
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Exercise\02. Exam Preparation\obj\Debug\net8.0\02. Exam Preparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Exercise\02. Exam Preparation\obj\Debug\net8.0\02. Exam Preparation.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Exercise\02. Exam Preparation\obj\Debug\net8.0\02. Exam Preparation.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Exercise\02. Exam Preparation\obj\Debug\net8.0\02. Exam Preparation.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Exercise\02. Exam Preparation\obj\Debug\net8.0\02. Exam Preparation.sourcelink.json
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Exercise\02. Exam Preparation\obj\Debug\net8.0\02. Exam Preparation.dll
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Exercise\02. Exam Preparation\obj\Debug\net8.0\refint\02. Exam Preparation.dll
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Exercise\02. Exam Preparation\obj\Debug\net8.0\02. Exam Preparation.pdb
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Exercise\02. Exam Preparation\obj\Debug\net8.0\02. Exam Preparation.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Exercise\02. Exam Preparation\obj\Debug\net8.0\ref\02. Exam Preparation.dll

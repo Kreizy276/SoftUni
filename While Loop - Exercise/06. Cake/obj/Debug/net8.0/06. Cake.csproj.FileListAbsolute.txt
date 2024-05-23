@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Exercise\06. Cake\bin\Debug\net8.0\06. Cake.exe
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Exercise\06. Cake\bin\Debug\net8.0\06. Cake.deps.json
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Exercise\06. Cake\bin\Debug\net8.0\06. Cake.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Exercise\06. Cake\bin\Debug\net8.0\06. Cake.dll
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Exercise\06. Cake\bin\Debug\net8.0\06. Cake.pdb
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Exercise\06. Cake\obj\Debug\net8.0\06. Cake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Exercise\06. Cake\obj\Debug\net8.0\06. Cake.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Exercise\06. Cake\obj\Debug\net8.0\06. Cake.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Exercise\06. Cake\obj\Debug\net8.0\06. Cake.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Exercise\06. Cake\obj\Debug\net8.0\06. Cake.sourcelink.json
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Exercise\06. Cake\obj\Debug\net8.0\06. Cake.dll
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Exercise\06. Cake\obj\Debug\net8.0\refint\06. Cake.dll
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Exercise\06. Cake\obj\Debug\net8.0\06. Cake.pdb
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Exercise\06. Cake\obj\Debug\net8.0\06. Cake.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\SoftUni\While Loop - Exercise\06. Cake\obj\Debug\net8.0\ref\06. Cake.dll
