@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\07. Shopping\bin\Debug\net8.0\07. Shopping.exe
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\07. Shopping\bin\Debug\net8.0\07. Shopping.deps.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\07. Shopping\bin\Debug\net8.0\07. Shopping.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\07. Shopping\bin\Debug\net8.0\07. Shopping.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\07. Shopping\bin\Debug\net8.0\07. Shopping.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\07. Shopping\obj\Debug\net8.0\07. Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\07. Shopping\obj\Debug\net8.0\07. Shopping.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\07. Shopping\obj\Debug\net8.0\07. Shopping.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\07. Shopping\obj\Debug\net8.0\07. Shopping.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\07. Shopping\obj\Debug\net8.0\07. Shopping.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\07. Shopping\obj\Debug\net8.0\refint\07. Shopping.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\07. Shopping\obj\Debug\net8.0\07. Shopping.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\07. Shopping\obj\Debug\net8.0\07. Shopping.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\07. Shopping\obj\Debug\net8.0\ref\07. Shopping.dll

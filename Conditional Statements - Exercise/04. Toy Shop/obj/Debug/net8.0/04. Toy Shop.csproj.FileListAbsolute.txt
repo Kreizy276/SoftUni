@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net8.0\04. Toy Shop.exe
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net8.0\04. Toy Shop.deps.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net8.0\04. Toy Shop.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net8.0\04. Toy Shop.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net8.0\04. Toy Shop.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net8.0\04. Toy Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net8.0\04. Toy Shop.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net8.0\04. Toy Shop.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net8.0\04. Toy Shop.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net8.0\04. Toy Shop.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net8.0\refint\04. Toy Shop.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net8.0\04. Toy Shop.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net8.0\04. Toy Shop.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net8.0\ref\04. Toy Shop.dll

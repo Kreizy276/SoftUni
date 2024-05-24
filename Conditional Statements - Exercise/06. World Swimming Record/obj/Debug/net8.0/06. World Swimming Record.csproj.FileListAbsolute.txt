@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\net8.0\06. World Swimming Record.exe
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\net8.0\06. World Swimming Record.deps.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\net8.0\06. World Swimming Record.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\net8.0\06. World Swimming Record.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\net8.0\06. World Swimming Record.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net8.0\06. World Swimming Record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net8.0\06. World Swimming Record.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net8.0\06. World Swimming Record.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net8.0\06. World Swimming Record.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net8.0\06. World Swimming Record.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net8.0\refint\06. World Swimming Record.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net8.0\06. World Swimming Record.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net8.0\06. World Swimming Record.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net8.0\ref\06. World Swimming Record.dll

@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\01. Sum Seconds\bin\Debug\net8.0\01. Sum Seconds.exe
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\01. Sum Seconds\bin\Debug\net8.0\01. Sum Seconds.deps.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\01. Sum Seconds\bin\Debug\net8.0\01. Sum Seconds.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\01. Sum Seconds\bin\Debug\net8.0\01. Sum Seconds.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\01. Sum Seconds\bin\Debug\net8.0\01. Sum Seconds.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\net8.0\01. Sum Seconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\net8.0\01. Sum Seconds.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\net8.0\01. Sum Seconds.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\net8.0\01. Sum Seconds.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\net8.0\01. Sum Seconds.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\net8.0\refint\01. Sum Seconds.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\net8.0\01. Sum Seconds.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\net8.0\01. Sum Seconds.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\net8.0\ref\01. Sum Seconds.dll
