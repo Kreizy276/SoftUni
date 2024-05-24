@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\07. Area of Figures\bin\Debug\net8.0\07. Area of Figures.exe
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\07. Area of Figures\bin\Debug\net8.0\07. Area of Figures.deps.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\07. Area of Figures\bin\Debug\net8.0\07. Area of Figures.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\07. Area of Figures\bin\Debug\net8.0\07. Area of Figures.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\07. Area of Figures\bin\Debug\net8.0\07. Area of Figures.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\07. Area of Figures\obj\Debug\net8.0\07. Area of Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\07. Area of Figures\obj\Debug\net8.0\07. Area of Figures.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\07. Area of Figures\obj\Debug\net8.0\07. Area of Figures.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\07. Area of Figures\obj\Debug\net8.0\07. Area of Figures.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\07. Area of Figures\obj\Debug\net8.0\07. Area of Figures.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\07. Area of Figures\obj\Debug\net8.0\refint\07. Area of Figures.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\07. Area of Figures\obj\Debug\net8.0\07. Area of Figures.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\07. Area of Figures\obj\Debug\net8.0\07. Area of Figures.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\07. Area of Figures\obj\Debug\net8.0\ref\07. Area of Figures.dll

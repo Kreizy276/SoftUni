@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\02. Greater Number\bin\Debug\net8.0\02. Greater Number.exe
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\02. Greater Number\bin\Debug\net8.0\02. Greater Number.deps.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\02. Greater Number\bin\Debug\net8.0\02. Greater Number.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\02. Greater Number\bin\Debug\net8.0\02. Greater Number.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\02. Greater Number\bin\Debug\net8.0\02. Greater Number.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\02. Greater Number\obj\Debug\net8.0\02. Greater Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\02. Greater Number\obj\Debug\net8.0\02. Greater Number.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\02. Greater Number\obj\Debug\net8.0\02. Greater Number.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\02. Greater Number\obj\Debug\net8.0\02. Greater Number.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\02. Greater Number\obj\Debug\net8.0\02. Greater Number.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\02. Greater Number\obj\Debug\net8.0\refint\02. Greater Number.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\02. Greater Number\obj\Debug\net8.0\02. Greater Number.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\02. Greater Number\obj\Debug\net8.0\02. Greater Number.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\02. Greater Number\obj\Debug\net8.0\ref\02. Greater Number.dll

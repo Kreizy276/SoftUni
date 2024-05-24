@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\01. Excellent Result\bin\Debug\net8.0\01. Excellent Result.exe
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\01. Excellent Result\bin\Debug\net8.0\01. Excellent Result.deps.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\01. Excellent Result\bin\Debug\net8.0\01. Excellent Result.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\01. Excellent Result\bin\Debug\net8.0\01. Excellent Result.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\01. Excellent Result\bin\Debug\net8.0\01. Excellent Result.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\01. Excellent Result\obj\Debug\net8.0\01. Excellent Result.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\01. Excellent Result\obj\Debug\net8.0\01. Excellent Result.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\01. Excellent Result\obj\Debug\net8.0\01. Excellent Result.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\01. Excellent Result\obj\Debug\net8.0\01. Excellent Result.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\01. Excellent Result\obj\Debug\net8.0\01. Excellent Result.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\01. Excellent Result\obj\Debug\net8.0\refint\01. Excellent Result.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\01. Excellent Result\obj\Debug\net8.0\01. Excellent Result.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\01. Excellent Result\obj\Debug\net8.0\01. Excellent Result.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\01. Excellent Result\obj\Debug\net8.0\ref\01. Excellent Result.dll

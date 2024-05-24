@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\05. Number between 100 200\bin\Debug\net8.0\05. Number between 100 200.exe
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\05. Number between 100 200\bin\Debug\net8.0\05. Number between 100 200.deps.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\05. Number between 100 200\bin\Debug\net8.0\05. Number between 100 200.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\05. Number between 100 200\bin\Debug\net8.0\05. Number between 100 200.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\05. Number between 100 200\bin\Debug\net8.0\05. Number between 100 200.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\05. Number between 100 200\obj\Debug\net8.0\05. Number between 100 200.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\05. Number between 100 200\obj\Debug\net8.0\05. Number between 100 200.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\05. Number between 100 200\obj\Debug\net8.0\05. Number between 100 200.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\05. Number between 100 200\obj\Debug\net8.0\05. Number between 100 200.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\05. Number between 100 200\obj\Debug\net8.0\05. Number between 100 200.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\05. Number between 100 200\obj\Debug\net8.0\refint\05. Number between 100 200.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\05. Number between 100 200\obj\Debug\net8.0\05. Number between 100 200.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\05. Number between 100 200\obj\Debug\net8.0\05. Number between 100 200.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements - Lab\05. Number between 100 200\obj\Debug\net8.0\ref\05. Number between 100 200.dll
