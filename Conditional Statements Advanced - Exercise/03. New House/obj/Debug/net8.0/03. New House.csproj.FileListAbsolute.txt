@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net8.0\03. New House.exe
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net8.0\03. New House.deps.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net8.0\03. New House.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net8.0\03. New House.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net8.0\03. New House.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net8.0\03. New House.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net8.0\03. New House.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net8.0\03. New House.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net8.0\03. New House.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net8.0\03. New House.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net8.0\refint\03. New House.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net8.0\03. New House.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net8.0\03. New House.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net8.0\ref\03. New House.dll

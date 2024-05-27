@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\net8.0\06. Operations Between Numbers.exe
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\net8.0\06. Operations Between Numbers.deps.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\net8.0\06. Operations Between Numbers.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\net8.0\06. Operations Between Numbers.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\net8.0\06. Operations Between Numbers.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net8.0\06. Operations Between Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net8.0\06. Operations Between Numbers.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net8.0\06. Operations Between Numbers.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net8.0\06. Operations Between Numbers.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net8.0\06. Operations Between Numbers.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net8.0\refint\06. Operations Between Numbers.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net8.0\06. Operations Between Numbers.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net8.0\06. Operations Between Numbers.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net8.0\ref\06. Operations Between Numbers.dll

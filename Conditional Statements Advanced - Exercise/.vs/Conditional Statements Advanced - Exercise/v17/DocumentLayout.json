@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krisb\\Desktop\\exercises\\Conditional Statements Advanced - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36D0C394-9F96-4465-8C96-5F9F8DEEB8B1}|09. Ski Trip\\09. Ski Trip.csproj|c:\\users\\krisb\\desktop\\exercises\\conditional statements advanced - exercise\\09. ski trip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D0C394-9F96-4465-8C96-5F9F8DEEB8B1}|09. Ski Trip\\09. Ski Trip.csproj|solutionrelative:09. ski trip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCB4DCD-4B66-4382-BA3E-420AAD82239D}|08. On Time for the Exam\\08. On Time for the Exam.csproj|c:\\users\\krisb\\desktop\\exercises\\conditional statements advanced - exercise\\08. on time for the exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCB4DCD-4B66-4382-BA3E-420AAD82239D}|08. On Time for the Exam\\08. On Time for the Exam.csproj|solutionrelative:08. on time for the exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Conditional Statements Advanced - Exercise\\09. Ski Trip\\Program.cs",
+              "RelativeDocumentMoniker": "09. Ski Trip\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Conditional Statements Advanced - Exercise\\09. Ski Trip\\Program.cs",
+              "RelativeToolTip": "09. Ski Trip\\Program.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAEMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:46:08.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Conditional Statements Advanced - Exercise\\08. On Time for the Exam\\Program.cs",
+              "RelativeDocumentMoniker": "08. On Time for the Exam\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Conditional Statements Advanced - Exercise\\08. On Time for the Exam\\Program.cs",
+              "RelativeToolTip": "08. On Time for the Exam\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:10:45.088Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

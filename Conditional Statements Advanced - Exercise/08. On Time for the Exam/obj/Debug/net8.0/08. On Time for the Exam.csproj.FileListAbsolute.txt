@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\net8.0\08. On Time for the Exam.exe
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\net8.0\08. On Time for the Exam.deps.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\net8.0\08. On Time for the Exam.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\net8.0\08. On Time for the Exam.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\net8.0\08. On Time for the Exam.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net8.0\08. On Time for the Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net8.0\08. On Time for the Exam.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net8.0\08. On Time for the Exam.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net8.0\08. On Time for the Exam.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net8.0\08. On Time for the Exam.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net8.0\refint\08. On Time for the Exam.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net8.0\08. On Time for the Exam.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net8.0\08. On Time for the Exam.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net8.0\ref\08. On Time for the Exam.dll

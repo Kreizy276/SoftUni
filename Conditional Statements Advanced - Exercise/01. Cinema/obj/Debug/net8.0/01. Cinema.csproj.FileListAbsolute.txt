@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net8.0\01. Cinema.exe
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net8.0\01. Cinema.deps.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net8.0\01. Cinema.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net8.0\01. Cinema.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net8.0\01. Cinema.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net8.0\01. Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net8.0\01. Cinema.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net8.0\01. Cinema.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net8.0\01. Cinema.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net8.0\01. Cinema.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net8.0\refint\01. Cinema.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net8.0\01. Cinema.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net8.0\01. Cinema.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net8.0\ref\01. Cinema.dll

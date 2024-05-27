@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\net8.0\04. Fishing Boat.exe
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\net8.0\04. Fishing Boat.deps.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\net8.0\04. Fishing Boat.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\net8.0\04. Fishing Boat.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\net8.0\04. Fishing Boat.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net8.0\04. Fishing Boat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net8.0\04. Fishing Boat.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net8.0\04. Fishing Boat.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net8.0\04. Fishing Boat.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net8.0\04. Fishing Boat.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net8.0\refint\04. Fishing Boat.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net8.0\04. Fishing Boat.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net8.0\04. Fishing Boat.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net8.0\ref\04. Fishing Boat.dll
