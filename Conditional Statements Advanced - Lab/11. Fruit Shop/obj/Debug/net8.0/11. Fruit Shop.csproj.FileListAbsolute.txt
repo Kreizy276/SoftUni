@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net8.0\11. Fruit Shop.exe
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net8.0\11. Fruit Shop.deps.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net8.0\11. Fruit Shop.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net8.0\11. Fruit Shop.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net8.0\11. Fruit Shop.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net8.0\11. Fruit Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net8.0\11. Fruit Shop.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net8.0\11. Fruit Shop.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net8.0\11. Fruit Shop.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net8.0\11. Fruit Shop.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net8.0\refint\11. Fruit Shop.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net8.0\11. Fruit Shop.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net8.0\11. Fruit Shop.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net8.0\ref\11. Fruit Shop.dll

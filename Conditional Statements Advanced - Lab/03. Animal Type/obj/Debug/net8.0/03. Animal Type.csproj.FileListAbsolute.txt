@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\03. Animal Type\bin\Debug\net8.0\03. Animal Type.exe
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\03. Animal Type\bin\Debug\net8.0\03. Animal Type.deps.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\03. Animal Type\bin\Debug\net8.0\03. Animal Type.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\03. Animal Type\bin\Debug\net8.0\03. Animal Type.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\03. Animal Type\bin\Debug\net8.0\03. Animal Type.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\net8.0\03. Animal Type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\net8.0\03. Animal Type.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\net8.0\03. Animal Type.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\net8.0\03. Animal Type.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\net8.0\03. Animal Type.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\net8.0\refint\03. Animal Type.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\net8.0\03. Animal Type.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\net8.0\03. Animal Type.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\net8.0\ref\03. Animal Type.dll

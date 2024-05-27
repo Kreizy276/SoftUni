@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\bin\Debug\net8.0\09. Fruit or Vegetable.exe
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\bin\Debug\net8.0\09. Fruit or Vegetable.deps.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\bin\Debug\net8.0\09. Fruit or Vegetable.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\bin\Debug\net8.0\09. Fruit or Vegetable.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\bin\Debug\net8.0\09. Fruit or Vegetable.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\net8.0\09. Fruit or Vegetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\net8.0\09. Fruit or Vegetable.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\net8.0\09. Fruit or Vegetable.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\net8.0\09. Fruit or Vegetable.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\net8.0\09. Fruit or Vegetable.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\net8.0\refint\09. Fruit or Vegetable.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\net8.0\09. Fruit or Vegetable.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\net8.0\09. Fruit or Vegetable.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\net8.0\ref\09. Fruit or Vegetable.dll

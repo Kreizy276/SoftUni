@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\net8.0\06. Number in Range.exe
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\net8.0\06. Number in Range.deps.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\net8.0\06. Number in Range.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\net8.0\06. Number in Range.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\net8.0\06. Number in Range.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\net8.0\06. Number in Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\net8.0\06. Number in Range.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\net8.0\06. Number in Range.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\net8.0\06. Number in Range.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\net8.0\06. Number in Range.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\net8.0\refint\06. Number in Range.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\net8.0\06. Number in Range.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\net8.0\06. Number in Range.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\net8.0\ref\06. Number in Range.dll

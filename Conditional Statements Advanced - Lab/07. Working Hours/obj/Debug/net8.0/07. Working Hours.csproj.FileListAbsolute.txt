@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\07. Working Hours\bin\Debug\net8.0\07. Working Hours.exe
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\07. Working Hours\bin\Debug\net8.0\07. Working Hours.deps.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\07. Working Hours\bin\Debug\net8.0\07. Working Hours.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\07. Working Hours\bin\Debug\net8.0\07. Working Hours.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\07. Working Hours\bin\Debug\net8.0\07. Working Hours.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\07. Working Hours\obj\Debug\net8.0\07. Working Hours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\07. Working Hours\obj\Debug\net8.0\07. Working Hours.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\07. Working Hours\obj\Debug\net8.0\07. Working Hours.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\07. Working Hours\obj\Debug\net8.0\07. Working Hours.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\07. Working Hours\obj\Debug\net8.0\07. Working Hours.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\07. Working Hours\obj\Debug\net8.0\refint\07. Working Hours.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\07. Working Hours\obj\Debug\net8.0\07. Working Hours.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\07. Working Hours\obj\Debug\net8.0\07. Working Hours.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\07. Working Hours\obj\Debug\net8.0\ref\07. Working Hours.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krisb\\Desktop\\exercises\\Conditional Statements Advanced - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B172F798-565B-4B53-A252-3DAFCF4DE31F}|12. Trade Commissions\\12. Trade Commissions.csproj|c:\\users\\krisb\\desktop\\exercises\\conditional statements advanced - lab\\12. trade commissions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B172F798-565B-4B53-A252-3DAFCF4DE31F}|12. Trade Commissions\\12. Trade Commissions.csproj|solutionrelative:12. trade commissions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2AE134-3029-4441-A9FD-0C6B03DFCB65}|11. Fruit Shop\\11. Fruit Shop.csproj|c:\\users\\krisb\\desktop\\exercises\\conditional statements advanced - lab\\11. fruit shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2AE134-3029-4441-A9FD-0C6B03DFCB65}|11. Fruit Shop\\11. Fruit Shop.csproj|solutionrelative:11. fruit shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Conditional Statements Advanced - Lab\\12. Trade Commissions\\Program.cs",
+              "RelativeDocumentMoniker": "12. Trade Commissions\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Conditional Statements Advanced - Lab\\12. Trade Commissions\\Program.cs",
+              "RelativeToolTip": "12. Trade Commissions\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:59:25.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Conditional Statements Advanced - Lab\\11. Fruit Shop\\Program.cs",
+              "RelativeDocumentMoniker": "11. Fruit Shop\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Conditional Statements Advanced - Lab\\11. Fruit Shop\\Program.cs",
+              "RelativeToolTip": "11. Fruit Shop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:34:40.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

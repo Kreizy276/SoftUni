@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net8.0\10. Invalid Number.exe
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net8.0\10. Invalid Number.deps.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net8.0\10. Invalid Number.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net8.0\10. Invalid Number.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net8.0\10. Invalid Number.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net8.0\10. Invalid Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net8.0\10. Invalid Number.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net8.0\10. Invalid Number.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net8.0\10. Invalid Number.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net8.0\10. Invalid Number.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net8.0\refint\10. Invalid Number.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net8.0\10. Invalid Number.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net8.0\10. Invalid Number.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net8.0\ref\10. Invalid Number.dll

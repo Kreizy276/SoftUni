@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\08. Cinema Ticket\bin\Debug\net8.0\08. Cinema Ticket.exe
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\08. Cinema Ticket\bin\Debug\net8.0\08. Cinema Ticket.deps.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\08. Cinema Ticket\bin\Debug\net8.0\08. Cinema Ticket.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\08. Cinema Ticket\bin\Debug\net8.0\08. Cinema Ticket.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\08. Cinema Ticket\bin\Debug\net8.0\08. Cinema Ticket.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\08. Cinema Ticket\obj\Debug\net8.0\08. Cinema Ticket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\08. Cinema Ticket\obj\Debug\net8.0\08. Cinema Ticket.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\08. Cinema Ticket\obj\Debug\net8.0\08. Cinema Ticket.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\08. Cinema Ticket\obj\Debug\net8.0\08. Cinema Ticket.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\08. Cinema Ticket\obj\Debug\net8.0\08. Cinema Ticket.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\08. Cinema Ticket\obj\Debug\net8.0\refint\08. Cinema Ticket.dll
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\08. Cinema Ticket\obj\Debug\net8.0\08. Cinema Ticket.pdb
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\08. Cinema Ticket\obj\Debug\net8.0\08. Cinema Ticket.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\Conditional Statements Advanced - Lab\08. Cinema Ticket\obj\Debug\net8.0\ref\08. Cinema Ticket.dll
