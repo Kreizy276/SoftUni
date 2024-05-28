@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\02. Half Sum Element\bin\Debug\net8.0\02. Half Sum Element.exe
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\02. Half Sum Element\bin\Debug\net8.0\02. Half Sum Element.deps.json
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\02. Half Sum Element\bin\Debug\net8.0\02. Half Sum Element.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\02. Half Sum Element\bin\Debug\net8.0\02. Half Sum Element.dll
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\02. Half Sum Element\bin\Debug\net8.0\02. Half Sum Element.pdb
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\02. Half Sum Element\obj\Debug\net8.0\02. Half Sum Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\02. Half Sum Element\obj\Debug\net8.0\02. Half Sum Element.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\02. Half Sum Element\obj\Debug\net8.0\02. Half Sum Element.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\02. Half Sum Element\obj\Debug\net8.0\02. Half Sum Element.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\02. Half Sum Element\obj\Debug\net8.0\02. Half Sum Element.dll
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\02. Half Sum Element\obj\Debug\net8.0\refint\02. Half Sum Element.dll
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\02. Half Sum Element\obj\Debug\net8.0\02. Half Sum Element.pdb
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\02. Half Sum Element\obj\Debug\net8.0\02. Half Sum Element.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\02. Half Sum Element\obj\Debug\net8.0\ref\02. Half Sum Element.dll

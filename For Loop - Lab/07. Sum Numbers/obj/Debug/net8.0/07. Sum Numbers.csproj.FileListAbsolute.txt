@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\07. Sum Numbers\bin\Debug\net8.0\07. Sum Numbers.exe
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\07. Sum Numbers\bin\Debug\net8.0\07. Sum Numbers.deps.json
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\07. Sum Numbers\bin\Debug\net8.0\07. Sum Numbers.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\07. Sum Numbers\bin\Debug\net8.0\07. Sum Numbers.dll
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\07. Sum Numbers\bin\Debug\net8.0\07. Sum Numbers.pdb
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\07. Sum Numbers\obj\Debug\net8.0\07. Sum Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\07. Sum Numbers\obj\Debug\net8.0\07. Sum Numbers.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\07. Sum Numbers\obj\Debug\net8.0\07. Sum Numbers.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\07. Sum Numbers\obj\Debug\net8.0\07. Sum Numbers.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\07. Sum Numbers\obj\Debug\net8.0\07. Sum Numbers.dll
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\07. Sum Numbers\obj\Debug\net8.0\refint\07. Sum Numbers.dll
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\07. Sum Numbers\obj\Debug\net8.0\07. Sum Numbers.pdb
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\07. Sum Numbers\obj\Debug\net8.0\07. Sum Numbers.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\07. Sum Numbers\obj\Debug\net8.0\ref\07. Sum Numbers.dll

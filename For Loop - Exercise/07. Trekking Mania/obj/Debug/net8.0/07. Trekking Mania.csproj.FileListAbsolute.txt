@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\07. Trekking Mania\bin\Debug\net8.0\07. Trekking Mania.exe
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\07. Trekking Mania\bin\Debug\net8.0\07. Trekking Mania.deps.json
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\07. Trekking Mania\bin\Debug\net8.0\07. Trekking Mania.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\07. Trekking Mania\bin\Debug\net8.0\07. Trekking Mania.dll
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\07. Trekking Mania\bin\Debug\net8.0\07. Trekking Mania.pdb
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\07. Trekking Mania\obj\Debug\net8.0\07. Trekking Mania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\07. Trekking Mania\obj\Debug\net8.0\07. Trekking Mania.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\07. Trekking Mania\obj\Debug\net8.0\07. Trekking Mania.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\07. Trekking Mania\obj\Debug\net8.0\07. Trekking Mania.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\07. Trekking Mania\obj\Debug\net8.0\07. Trekking Mania.dll
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\07. Trekking Mania\obj\Debug\net8.0\refint\07. Trekking Mania.dll
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\07. Trekking Mania\obj\Debug\net8.0\07. Trekking Mania.pdb
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\07. Trekking Mania\obj\Debug\net8.0\07. Trekking Mania.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\07. Trekking Mania\obj\Debug\net8.0\ref\07. Trekking Mania.dll

@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\05. Salary\bin\Debug\net8.0\05. Salary.exe
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\05. Salary\bin\Debug\net8.0\05. Salary.deps.json
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\05. Salary\bin\Debug\net8.0\05. Salary.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\05. Salary\bin\Debug\net8.0\05. Salary.dll
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\05. Salary\bin\Debug\net8.0\05. Salary.pdb
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\05. Salary\obj\Debug\net8.0\05. Salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\05. Salary\obj\Debug\net8.0\05. Salary.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\05. Salary\obj\Debug\net8.0\05. Salary.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\05. Salary\obj\Debug\net8.0\05. Salary.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\05. Salary\obj\Debug\net8.0\05. Salary.dll
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\05. Salary\obj\Debug\net8.0\refint\05. Salary.dll
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\05. Salary\obj\Debug\net8.0\05. Salary.pdb
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\05. Salary\obj\Debug\net8.0\05. Salary.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\05. Salary\obj\Debug\net8.0\ref\05. Salary.dll

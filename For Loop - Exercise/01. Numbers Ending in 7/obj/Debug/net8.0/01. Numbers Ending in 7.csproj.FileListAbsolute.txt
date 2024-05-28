@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net8.0\01. Numbers Ending in 7.exe
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net8.0\01. Numbers Ending in 7.deps.json
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net8.0\01. Numbers Ending in 7.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net8.0\01. Numbers Ending in 7.dll
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net8.0\01. Numbers Ending in 7.pdb
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net8.0\01. Numbers Ending in 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net8.0\01. Numbers Ending in 7.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net8.0\01. Numbers Ending in 7.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net8.0\01. Numbers Ending in 7.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net8.0\01. Numbers Ending in 7.dll
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net8.0\refint\01. Numbers Ending in 7.dll
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net8.0\01. Numbers Ending in 7.pdb
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net8.0\01. Numbers Ending in 7.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net8.0\ref\01. Numbers Ending in 7.dll

@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\04. Clever Lily\bin\Debug\net8.0\04. Clever Lily.exe
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\04. Clever Lily\bin\Debug\net8.0\04. Clever Lily.deps.json
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\04. Clever Lily\bin\Debug\net8.0\04. Clever Lily.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\04. Clever Lily\bin\Debug\net8.0\04. Clever Lily.dll
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\04. Clever Lily\bin\Debug\net8.0\04. Clever Lily.pdb
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\04. Clever Lily\obj\Debug\net8.0\04. Clever Lily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\04. Clever Lily\obj\Debug\net8.0\04. Clever Lily.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\04. Clever Lily\obj\Debug\net8.0\04. Clever Lily.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\04. Clever Lily\obj\Debug\net8.0\04. Clever Lily.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\04. Clever Lily\obj\Debug\net8.0\04. Clever Lily.dll
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\04. Clever Lily\obj\Debug\net8.0\refint\04. Clever Lily.dll
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\04. Clever Lily\obj\Debug\net8.0\04. Clever Lily.pdb
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\04. Clever Lily\obj\Debug\net8.0\04. Clever Lily.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\04. Clever Lily\obj\Debug\net8.0\ref\04. Clever Lily.dll

@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\01. Numbers from 1 to 100\bin\Debug\net8.0\01. Numbers from 1 to 100.exe
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\01. Numbers from 1 to 100\bin\Debug\net8.0\01. Numbers from 1 to 100.deps.json
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\01. Numbers from 1 to 100\bin\Debug\net8.0\01. Numbers from 1 to 100.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\01. Numbers from 1 to 100\bin\Debug\net8.0\01. Numbers from 1 to 100.dll
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\01. Numbers from 1 to 100\bin\Debug\net8.0\01. Numbers from 1 to 100.pdb
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\net8.0\01. Numbers from 1 to 100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\net8.0\01. Numbers from 1 to 100.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\net8.0\01. Numbers from 1 to 100.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\net8.0\01. Numbers from 1 to 100.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\net8.0\01. Numbers from 1 to 100.dll
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\net8.0\refint\01. Numbers from 1 to 100.dll
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\net8.0\01. Numbers from 1 to 100.pdb
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\net8.0\01. Numbers from 1 to 100.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\net8.0\ref\01. Numbers from 1 to 100.dll

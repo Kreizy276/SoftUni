@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\03. Histogram\bin\Debug\net8.0\03. Histogram.exe
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\03. Histogram\bin\Debug\net8.0\03. Histogram.deps.json
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\03. Histogram\bin\Debug\net8.0\03. Histogram.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\03. Histogram\bin\Debug\net8.0\03. Histogram.dll
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\03. Histogram\bin\Debug\net8.0\03. Histogram.pdb
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\03. Histogram\obj\Debug\net8.0\03. Histogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\03. Histogram\obj\Debug\net8.0\03. Histogram.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\03. Histogram\obj\Debug\net8.0\03. Histogram.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\03. Histogram\obj\Debug\net8.0\03. Histogram.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\03. Histogram\obj\Debug\net8.0\03. Histogram.dll
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\03. Histogram\obj\Debug\net8.0\refint\03. Histogram.dll
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\03. Histogram\obj\Debug\net8.0\03. Histogram.pdb
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\03. Histogram\obj\Debug\net8.0\03. Histogram.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\For Loop - Exercise\03. Histogram\obj\Debug\net8.0\ref\03. Histogram.dll

@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\09. Left and Right Sum\bin\Debug\net8.0\09. Left and Right Sum.exe
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\09. Left and Right Sum\bin\Debug\net8.0\09. Left and Right Sum.deps.json
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\09. Left and Right Sum\bin\Debug\net8.0\09. Left and Right Sum.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\09. Left and Right Sum\bin\Debug\net8.0\09. Left and Right Sum.dll
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\09. Left and Right Sum\bin\Debug\net8.0\09. Left and Right Sum.pdb
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\09. Left and Right Sum\obj\Debug\net8.0\09. Left and Right Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\09. Left and Right Sum\obj\Debug\net8.0\09. Left and Right Sum.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\09. Left and Right Sum\obj\Debug\net8.0\09. Left and Right Sum.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\09. Left and Right Sum\obj\Debug\net8.0\09. Left and Right Sum.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\09. Left and Right Sum\obj\Debug\net8.0\09. Left and Right Sum.dll
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\09. Left and Right Sum\obj\Debug\net8.0\refint\09. Left and Right Sum.dll
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\09. Left and Right Sum\obj\Debug\net8.0\09. Left and Right Sum.pdb
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\09. Left and Right Sum\obj\Debug\net8.0\09. Left and Right Sum.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\For Loop - Lab\09. Left and Right Sum\obj\Debug\net8.0\ref\09. Left and Right Sum.dll
